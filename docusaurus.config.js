@@ -1,5 +1,5 @@
 module.exports = {
-  title: "XtendOps Development",
+  title: "XtendOps Development Team",
   tagline: "Develop with accountability in mind. Own it with pride ⚡!",
   url: "https://qrrcrghooj.herokuapp.com/",
   baseUrl: "/",
@@ -9,18 +9,12 @@ module.exports = {
   projectName: "developers", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "XtendOps Development",
+      title: "XtendOps Developers",
       logo: {
-        alt: "XtendOps Development",
+        alt: "XtendOps Developers",
         src: "img/logo.svg",
       },
       items: [
-        {
-          to: "about/",
-          activeBasePath: "about",
-          label: "About",
-          position: "left",
-        },
         {
           to: "docs/",
           activeBasePath: "docs",
@@ -29,60 +23,22 @@ module.exports = {
         },
         { to: "blog", label: "Blog", position: "left" },
         {
-          href: "https://github.com/xtendops-developers",
-          label: "GitHub",
-          position: "right",
+          to: "projects/",
+          activeBasePath: "projects",
+          label: "Projects",
+          position: "left",
+        },
+        {
+          to: "team/",
+          activeBasePath: "team",
+          label: "Meet the Team",
+          position: "left",
         },
       ],
     },
     footer: {
       style: "dark",
-      links: [
-        {
-          title: "Docs",
-          items: [
-            {
-              label: "Style Guide",
-              to: "docs/",
-            },
-            {
-              label: "Second Doc",
-              to: "docs/doc2/",
-            },
-          ],
-        },
-        {
-          title: "Community",
-          items: [
-            {
-              label: "Stack Overflow",
-              href: "https://stackoverflow.com/questions/tagged/docusaurus",
-            },
-            {
-              label: "Discord",
-              href: "https://discordapp.com/invite/docusaurus",
-            },
-            {
-              label: "Twitter",
-              href: "https://twitter.com/docusaurus",
-            },
-          ],
-        },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "blog",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/xtendops-developers",
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} XtendOps Development. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} XtendOps Development Team`,
     },
   },
   presets: [
