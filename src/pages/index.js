@@ -68,7 +68,7 @@ We’re a modern offshoring entity, built around amazing people and innovative d
                 styles.getStarted,
               )}
               to="https://github.com/xtendops-developers">
-              Github Organization
+              Check our Github Organization
             </Link>
           </div>
         </div>

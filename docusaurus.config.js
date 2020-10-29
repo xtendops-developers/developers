@@ -18,14 +18,14 @@ module.exports = {
         {
           to: "docs/",
           activeBasePath: "docs",
-          label: "Docs",
+          label: "Projects",
           position: "left",
         },
         { to: "blog", label: "Blog", position: "left" },
         {
-          to: "projects/",
-          activeBasePath: "projects",
-          label: "Projects",
+          to: "api/",
+          activeBasePath: "api",
+          label: "Company API",
           position: "left",
         },
         {
