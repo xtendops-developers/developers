@@ -8,46 +8,40 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    title: 'Develops with Accountability in mind',
     description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+      <>        
+        Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque
+        eget sodales augue, vitae scelerisque urna. Quisque imperdiet ante
+        diam, ac feugiat felis laoreet quis. 
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    title: 'Best of the Best',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Phasellus facilisis dolor a tincidunt viverra. Morbi semper justo sit
+        amet sapien condimentum, at aliquam eros tincidunt. Quisque a ante orci.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    title: 'Fast and Precise',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Nunc vel dictum risus. Proin rhoncus vitae dui vel euismod. Sed sodales est eget
+        velit ultricies porttitor. Phasellus ac mi ultrices,
+        commodo tortor tincidunt, mattis turpis. Vestibulum nisi nisi,
+        hendrerit ac justo sit amet, vehicula rutrum neque. 
       </>
     ),
   },
 ];
 
-function Feature({imageUrl, title, description}) {
-  const imgUrl = useBaseUrl(imageUrl);
+function Feature({title, description}) {
   return (
     <div className={clsx('col col--4', styles.feature)}>
-      {imgUrl && (
-        <div className="text--center">
-          <img className={styles.featureImage} src={imgUrl} alt={title} />
-        </div>
-      )}
       <h3>{title}</h3>
       <p>{description}</p>
     </div>
@@ -63,16 +57,18 @@ function Home() {
       description="Description will go into a meta tag in <head />">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
-          <h1 className="hero__title">{siteConfig.title}</h1>
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <h1 className="hero__title">XtendOps Development Team</h1>
+          <p style={{ width: "80%", marginLeft: "auto", marginRight: "auto" }}>
+XtendOps combines leading edge cloudbase technologies with a world-class managed workforce solution.
+We’re a modern offshoring entity, built around amazing people and innovative digital solutions. Agile and adaptable we quickly react to ever changing client needs. We work hand in hand with you to design a customized outsourcing strategy to suit your needs and optimize for your success. Our focus isn’t simply on supporting your business, but to improve operations, customer experience & expand your bottom line.</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/')}>
-              Get Started
+              to="https://github.com/xtendops-developers">
+              Github Organization
             </Link>
           </div>
         </div>

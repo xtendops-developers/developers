@@ -1,6 +1,6 @@
 ---
 id: team
-title: Team
+title: Meet the Team
 slug: /team
 ---
 
@@ -8,14 +8,9 @@ import TeamProfileCard from "@site/src/TeamProfileCard"
 
 export function TeamProfileCardCol(props) { return <TeamProfileCard {...props} className={'col col--6 margin-bottom--lg'}/> }
 
-## XtendOps DEV Team
+# Meet the Team
 
-XtendOps combines leading edge cloudbase technologies with a world-class managed workforce solution. We’re a modern offshoring entity, built around amazing people and innovative digital solutions. Agile and adaptable we quickly react to ever changing client needs. We work hand in hand with you to design a customized outsourcing strategy to suit your needs and optimize for your success. Our focus isn’t simply on supporting your business, but to improve operations, customer experience & expand your bottom line.
-<br/>
-
-## Meet Our Team
-
-The Docusaurus team works on the core functionality, plugins for the classic theme, as well as the Docusaurus documentation website.
+Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales augue, vitae scelerisque urna. Quisque imperdiet ante diam, ac feugiat felis laoreet quis. Phasellus facilisis dolor a tincidunt viverra. Morbi semper justo sit amet sapien condimentum, at aliquam eros tincidunt. Quisque a ante orci. Phasellus a gravida tellus, ac sagittis purus. Suspendisse nec urna eros. Phasellus pulvinar enim a luctus eleifend. In ut lorem sollicitudin, convallis risus et, lobortis dui. Fusce ac elit eu lorem feugiat interdum ac sit amet tellus.
 
 <div className="row">
   <TeamProfileCardCol
