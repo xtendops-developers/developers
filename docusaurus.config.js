@@ -1,12 +1,12 @@
 module.exports = {
   title: "XtendOps Development",
   tagline: "Develop with accountability in mind. Own it with pride ⚡!",
-  url: "https://your-docusaurus-test-site.com",
+  url: "https://qrrcrghooj.herokuapp.com/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   favicon: "img/favicon.ico",
-  organizationName: "facebook", // Usually your GitHub org/user name.
-  projectName: "docusaurus", // Usually your repo name.
+  organizationName: "XtendOps", // Usually your GitHub org/user name.
+  projectName: "developers", // Usually your repo name.
   themeConfig: {
     navbar: {
       title: "XtendOps Development",
@@ -82,7 +82,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} XtendOps Development. Built with Docusaurus.`,
     },
   },
   presets: [
