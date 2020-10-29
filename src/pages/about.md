@@ -20,7 +20,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
 <div className="row">
   <TeamProfileCardCol
     name="Narciso Alamar"
-    avatarImage="../static/img/team-narz.svg"
+    avatarImage="../img/team-narz.svg"
     position="Team Leader / Full Stack Developer"
     githubUrl="https://github.com/narzz03"
     eMail="mailto:narz@xtendops.us"
@@ -29,7 +29,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Mark Anthony Lumbao"
-    avatarImage="../static/img/team-mark.svg"
+    avatarImage="../img/team-mark.svg"
     position="Frontend Web Developer"
     githubUrl="https://github.com/mark-lumbao"
     eMail="mailto:mark@xtendops.us"
@@ -38,7 +38,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Martin Rupert Bulquerin"
-    avatarImage="../static/img/team-martin.svg"
+    avatarImage="../img/team-martin.svg"
     position="Mobile Developer / Frontend Web Developer"
     githubUrl="https://github.com/rupertbulquerin"
     eMail="mailto:martin@xtendops.us"
@@ -47,7 +47,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Kenneth So"
-    avatarImage="../static/img/team-kenneth.svg"
+    avatarImage="../img/team-kenneth.svg"
     position="Frontend Web Developer"
     githubUrl="https://github.com/keso-12"
     eMail="mailto:kenneth@xtendops.us"
@@ -56,7 +56,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Rupert Tianzon"
-    avatarImage="../static/img/team-rupert.svg"
+    avatarImage="../img/team-rupert.svg"
     position="Work from Home Tickets"
     githubUrl="https://github.com/rgtianzon"
     eMail="mailto:rupert@xtendops.us"
@@ -65,7 +65,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Christian Ryan Macarse"
-    avatarImage="../static/img/team-christian.svg"
+    avatarImage="../img/team-christian.svg"
     position="Full Stack Developer / DevOps Engineer"
     githubUrl="https://github.com/crrmacarse"
     eMail="mailto:christian@xtendops.us"
@@ -74,7 +74,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Tommy Faye Cabrera"
-    avatarImage="../static/img/team-tommy.svg"
+    avatarImage="../img/team-tommy.svg"
     position="Frontend Web Developer / UI/UX"
     githubUrl="https://github.com/TommyCabrera"
     eMail="mailto:tommy@xtendops.us"
@@ -83,7 +83,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Rey Den Nalasa"
-    avatarImage="../static/img/team-rey.svg"
+    avatarImage="../img/team-rey.svg"
     position="Full Stack Developer"
     githubUrl="https://github.com/raiden808"
     eMail="mailto:reyden@xtendops.us"
@@ -92,7 +92,7 @@ The Docusaurus team works on the core functionality, plugins for the classic the
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Don Kenneth Demayo"
-    avatarImage="../static/img/team-don.svg"
+    avatarImage="../img/team-don.svg"
     position="Full Stack Developer"
     githubUrl="https://github.com/knnthdmyo"
     eMail="mailto:donkenneth@xtendops.us"
