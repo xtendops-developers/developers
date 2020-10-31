@@ -6,16 +6,6 @@
   "commit": false,
   "contributors": [
     {
-      "login": "TommyCabrera",
-      "name": "hitomi",
-      "avatar_url": "https://avatars2.githubusercontent.com/u/73001130?v=4",
-      "profile": "https://github.com/TommyCabrera",
-      "contributions": [
-        "code",
-        "design"
-      ]
-    },
-    {
       "login": "crrmacarse",
       "name": "Macarse, Christian Ryan R.",
       "avatar_url": "https://avatars3.githubusercontent.com/u/39759024?v=4",
@@ -26,7 +16,18 @@
         "maintenance"
       ]
     }
+    {
+      "login": "TommyCabrera",
+      "name": "hitomi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73001130?v=4",
+      "profile": "https://github.com/TommyCabrera",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
   ],
+  badgeTemplate: null,
   "contributorsPerLine": 7,
   "projectName": "developers",
   "projectOwner": "xtendops-developers",
