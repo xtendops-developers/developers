@@ -27,6 +27,7 @@
       ]
     }
   ],
+  badgeTemplate: null,
   "contributorsPerLine": 7,
   "projectName": "developers",
   "projectOwner": "xtendops-developers",
