@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TommyCabrera",
+      "name": "hitomi",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/73001130?v=4",
+      "profile": "https://github.com/TommyCabrera",
+      "contributions": [
+        "code",
+        "design"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "developers",
+  "projectOwner": "xtendops-developers",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
