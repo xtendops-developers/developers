@@ -1,6 +1,6 @@
 # XtendOps Developer Website
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 [![XO](https://img.shields.io/badge/Powered%20by-XtendOPS%20DEV%20Team-blue)](http://developers.xtendops.us/)
@@ -54,6 +54,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/TommyCabrera"><img src="https://avatars2.githubusercontent.com/u/73001130?v=4" width="100px;" alt=""/><br /><sub><b>hitomi</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=TommyCabrera" title="Code">💻</a> <a href="#design-TommyCabrera" title="Design">🎨</a></td>
+    <td align="center"><a href="http://crrmacarse.github.io / 139.59.100.139"><img src="https://avatars3.githubusercontent.com/u/39759024?v=4" width="100px;" alt=""/><br /><sub><b>Macarse, Christian Ryan R.</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Code">💻</a> <a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Documentation">📖</a> <a href="#maintenance-crrmacarse" title="Maintenance">🚧</a></td>
   </tr>
 </table>
 
