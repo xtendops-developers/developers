@@ -13,7 +13,9 @@
       "contributions": [
         "code",
         "doc",
-        "maintenance"
+        "maintenance",
+        "infra",
+        "question"
       ]
     },
     {
@@ -27,7 +29,6 @@
       ]
     }
   ],
-  badgeTemplate: null,
   "contributorsPerLine": 7,
   "projectName": "developers",
   "projectOwner": "xtendops-developers",

@@ -43,7 +43,7 @@ npm run start
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="http://crrmacarse.github.io / 139.59.100.139"><img src="https://avatars3.githubusercontent.com/u/39759024?v=4" width="100px;" alt=""/><br /><sub><b>Macarse, Christian Ryan R.</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Code">💻</a> <a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Documentation">📖</a> <a href="#maintenance-crrmacarse" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="http://crrmacarse.github.io / 139.59.100.139"><img src="https://avatars3.githubusercontent.com/u/39759024?v=4" width="100px;" alt=""/><br /><sub><b>Macarse, Christian Ryan R.</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Code">💻</a> <a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Documentation">📖</a> <a href="#maintenance-crrmacarse" title="Maintenance">🚧</a> <a href="#infra-crrmacarse" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#question-crrmacarse" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/TommyCabrera"><img src="https://avatars2.githubusercontent.com/u/73001130?v=4" width="100px;" alt=""/><br /><sub><b>hitomi</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=TommyCabrera" title="Code">💻</a> <a href="#design-TommyCabrera" title="Design">🎨</a></td>
   </tr>
 </table>
