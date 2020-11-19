@@ -31,12 +31,19 @@ Being woke afk
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/TommyCabrera"><img src="https://avatars2.githubusercontent.com/u/73001130?v=4" width="100px;" alt=""/><br /><sub><b>hitomi</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/narzz03"><img src="https://avatars1.githubusercontent.com/u/40901815?v=4" width="100px;" alt=""/><br /><sub><b>Narciso Alamar</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/TommyCabrera"><img src="https://avatars2.githubusercontent.com/u/73001130?v=4" width="100px;" alt=""/><br /><sub><b>Tommy Faye Cabrera</b></sub></a><br /></td>
     <td align="center"><a href="http://crrmacarse.github.io / 139.59.100.139"><img src="https://avatars3.githubusercontent.com/u/39759024?v=4" width="100px;" alt=""/><br /><sub><b>Macarse, Christian Ryan R.</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/rupertbulquerin"><img src="https://avatars2.githubusercontent.com/u/37164890?v=4" width="100px;" alt=""/><br /><sub><b>Martin Rupert Bulquerin</b></sub></a><br /></td>
+  </tr>
+  <tr>
     <td align="center"><a href="https://m-a-l.herokuapp.com"><img src="https://avatars0.githubusercontent.com/u/9671486?v=4" width="100px;" alt=""/><br /><sub><b>Mark Anthony Ballega Lumbao</b></sub></a><br /></td>
     <td align="center"><a href="https://twitter.com/raiofrivia"><img src="https://avatars1.githubusercontent.com/u/19511252?v=4" width="100px;" alt=""/><br /><sub><b>Rey Den Nalasa</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/knnthdmyo"><img src="https://avatars2.githubusercontent.com/u/69391273?v=4" width="100px;" alt=""/><br /><sub><b>Kenneth Don Demayo</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/keso-12"><img src="https://avatars3.githubusercontent.com/u/17907451?v=4" width="100px;" alt=""/><br /><sub><b>Kenneth B. So</b></sub></a><br /></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rgtianzon"><img src="https://avatars2.githubusercontent.com/u/73128873?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Rupert Tianzon</b></sub></a><br /></td>
   </tr>
 </table>
 
