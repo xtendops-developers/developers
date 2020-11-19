@@ -18,6 +18,7 @@ module.exports = {
       'server'
     ],
     'Company API Server': ['company-api-server'],
+    'Database Seeder': ['seeder'],
     'Xconnect': ['xconnect'],
     'XtendOps Careers': ['xtendops-careers'],
     'iFix': ['ifix'],

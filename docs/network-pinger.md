@@ -1,6 +1,6 @@
 ---
 id: network-pinger 
-title: Overview
+title: Project Nothing But Desserts 
 sidebar_label: Overview
 slug: /network-pinger
 ---

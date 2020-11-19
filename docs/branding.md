@@ -5,40 +5,42 @@ sidebar_label: Branding
 slug: /documentations/branding
 ---
 
-### Logo
+## The Logo
 
-logo here
+Designed by: Tommy Faye Cabrera
 
-### Brand
+![Logo](https://i.imgur.com/yspRiI7.jpg)
 
-- \<XO /\> is the short text logo
+## Brand
+
+- `<XO />` is the short text logo
 - For longer version use “XtendOps DEV Team”
 - ‘Courier New’ is the main font but could optionally use others
 - Don’t emphasize rather make it subtle instead.
 = Apply KISS pattern
 
-### Fonts
+## Fonts
 
 - Courier New
 - Raleway
 - Lato
 - Roboto
 
-### Colors
+## Colors
 
-#### Primary: 
+### Primary: 
 
 - Main: #9cc099
 - Dark: #1b1e29
 - Light: #fafafa
 
-#### Secondary: 
+### Secondary:
 
 - Main: #ff9e43
 - Dark: #303030
 - Light: #cecbcb
 
-### Assets
+## Assets
 
 https://drive.google.com/drive/folders/1wcrb9KNkw-WI-uYcNEhvaoh_EBF6_6AV
 

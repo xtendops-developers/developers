@@ -1,6 +1,6 @@
 ---
 id: health-check 
-title: Overview
+title: Project Mango Magic 
 sidebar_label: Overview
 slug: /health-check
 ---
