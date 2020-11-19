@@ -9,37 +9,37 @@ slug: /documentations
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ut suscipit turpis. Fusce diam enim, tristique vitae eros eget, pulvinar sagittis risus. Proin enim mi, suscipit in iaculis vel, condimentum non quam. Praesent vestibulum lorem nec elit venenatis, a facilisis dui varius. Nunc finibus auctor neque sit amet pulvinar.
 
-https://github.com/xtendops-developers/docs/blob/master/branch.md
+https://github.com/xtendops-developers/developers/docs/blob/master/branch.md
 
 ## Branding
 
 Proin enim mi, suscipit in iaculis vel, condimentum non quam. Praesent vestibulum lorem nec elit venenatis, a facilisis dui varius. Nunc finibus auctor neque sit amet pulvinar. Phasellus porta vel metus facilisis elementum. Maecenas ut condimentum eros. Pellentesque consequat et nibh ac mattis. Donec sit amet purus lacus. Donec vitae maximus ante.
 
-https://github.com/xtendops-developers/docs/blob/master/branding.md
+https://github.com/xtendops-developers/developers/docs/blob/master/branding.md
 
 ## Code of Conduct
 
 Phasellus porta vel metus facilisis elementum. Maecenas ut condimentum eros. Pellentesque consequat et nibh ac mattis. Donec sit amet purus lacus. Donec vitae maximus ante.
 
-https://github.com/xtendops-developers/docs/blob/master/code-of-conduct.md
+https://github.com/xtendops-developers/developers/docs/blob/master/code-of-conduct.md
 
 ## Code of Ethics
 
 Integer velit quam, sollicitudin vel tellus commodo, efficitur convallis lacus. Integer placerat sit amet diam non feugiat.
 
-https://github.com/xtendops-developers/docs/blob/master/code-of-ethics.md
+https://github.com/xtendops-developers/developers/docs/blob/master/code-of-ethics.md
 
 ## Code Review Reference
 
 A masterlist of code review to make it easy for developers to pull up as reference.
 
-https://github.com/xtendops-developers/docs/blob/master/code-review-reference.md
+https://github.com/xtendops-developers/developers/docs/blob/master/code-review-reference.md
 
 ## Commits
 
 Vivamus porta, justo in condimentum vulputate, augue justo pellentesque eros, et feugiat tellus libero in enim. Mauris dignissim maximus erat, eget iaculis nulla lobortis lacinia. Donec viverra justo sed ultricies ultricies. Sed gravida elementum justo, a pharetra urna rutrum sit amet. Fusce dictum eget turpis ut tempor.
 
-https://github.com/xtendops-developers/docs/blob/master/commits.md
+https://github.com/xtendops-developers/developers/docs/blob/master/commits.md
 
 ## Developer Guidelines
 
@@ -61,31 +61,31 @@ https://drive.google.com/file/d/15mYn3ZtwCVYQs_LJgM-V3kTh2KiMd609/view?usp=shari
 
 To help assist developer with project process and convention
 
-https://github.com/xtendops-developers/docs/blob/master/project-onboarding.md
+https://github.com/xtendops-developers/developers/docs/blob/master/project-onboarding.md
 
 ## Pull Request
 
 Etiam eu efficitur lectus, at fringilla metus. Integer non eros ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus a malesuada dolor, non scelerisque metus. Donec feugiat purus sed venenatis pretium. Cras imperdiet eget urna quis lobortis. Sed convallis fermentum eros, vitae vestibulum nisi ullamcorper et.
 
-https://github.com/xtendops-developers/docs/blob/master/pull-request.md
+https://github.com/xtendops-developers/developers/docs/blob/master/pull-request.md
 
 ## README Contributors Guide
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer velit quam, sollicitudin vel tellus commodo, efficitur convallis lacus. Integer placerat sit amet diam non feugiat. Morbi ut suscipit turpis. Fusce diam enim, tristique vitae eros eget, pulvinar sagittis risus. Proin enim mi, suscipit in iaculis vel, condimentum non quam. Praesent vestibulum lorem nec elit venenatis, a facilisis dui varius. Nunc finibus auctor neque sit amet pulvinar. Phasellus porta vel metus facilisis elementum. Maecenas ut condimentum eros. Pellentesque consequat et nibh ac mattis. Donec sit amet purus lacus. Donec vitae maximus ante.
 
-https://github.com/xtendops-developers/docs/blob/master/readme-contributors-guide.md
+https://github.com/xtendops-developers/developers/docs/blob/master/readme-contributors-guide.md
 
 ## Release
 
 In eget eros vitae odio interdum commodo eu quis massa. Nullam sit amet libero at sapien pellentesque auctor. Fusce laoreet ut dui nec vulputate. Integer mollis eros ut tortor semper iaculis. Morbi a varius sapien, ac mollis nunc. Morbi vel molestie eros.
 
-https://github.com/xtendops-developers/docs/blob/master/release.md
+https://github.com/xtendops-developers/developers/docs/blob/master/release.md
 
 ## Server
 
 Documentation about server stuff
 
-https://github.com/xtendops-developers/docs/blob/master/server.md
+https://github.com/xtendops-developers/developers/docs/blob/master/server.md
 
 # Contributors
 

@@ -1,7 +1,7 @@
 ---
 id: branch
-title: Branches
-sidebar_label: Branches
+title: Branch Convention
+sidebar_label: Branch Convention
 slug: /documentations/branch
 ---
 

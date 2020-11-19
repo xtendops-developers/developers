@@ -1,4 +1,9 @@
-## Serrer
+---
+id: server
+title: Server
+sidebar_label: Server
+slug: /documentations/server
+---
 
 Server Provider: Digital Ocean
 OS: Ubuntu

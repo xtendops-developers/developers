@@ -1,6 +1,9 @@
-## Release
-
-### GitHub Flow Pattern
+---
+id: release
+title: Creating Release
+sidebar_label: Creating a Release
+slug: /documentations/release
+---
 
 1. Create a branch
 
@@ -62,7 +65,7 @@
 
     By incorporating certain keywords into the text of your Pull Request, you can associate issues with code. When your Pull Request is merged, the related           issues are also closed. For example, entering the phrase Closes #32 would close issue number 32 in the repository. For more information, check out our help       article.
 
-### Resources
+## Resources
 
 https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/about-releases
 https://guides.github.com/introduction/flow/

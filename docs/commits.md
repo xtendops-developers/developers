@@ -1,31 +1,17 @@
 ---
 id: commits
-title: Commits
-sidebar_label: Commits
+title: Commit Pattern
+sidebar_label: Commit Pattern
 slug: /documentations/commits
 ---
 
-### Commits message format on published repositories
-
-This is for production projects where it requires official patch notes. In this way, it'll be convenient for us to just carry over commit messages as patch notes.
-
-> Note: Example: recruitment; ifix; ifix-mobile;
-
-- A brief sentence that explains what is done
-- Title Case format
-- Separated with ";"
-
-### Commits message format on non-published repositories
-
-This refers to repositories that doesn't require patch notes
-
-> Note: Example: docs; developers;
-
+```bash
 Format: `<type>(<scope>): <subject>`
+```
 
-`<scope>` is optional
+> `<scope>` is optional
 
-#### Example
+### Example Usage
 
 ```
 feat: add hat wobble

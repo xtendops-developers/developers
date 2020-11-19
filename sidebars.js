@@ -12,7 +12,6 @@ module.exports = {
       'commits',
       'issue-vs-pull-request',
       'project-onboarding',
-      'pull-request',
       'readme-contributors-guide',
       'release',
       'server'

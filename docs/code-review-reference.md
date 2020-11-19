@@ -68,7 +68,7 @@ Table of Contents
 * [7.0 Database](#7.0-database)
 * [8.0 Blacklisted](#8.0-blacklisted)
 
-### 1.0 General [#](#1.0-general)
+### 1.0 General
 
 ---
 
@@ -184,7 +184,7 @@ Table of Contents
 
     https://lodash.com/
 
-### 2.0 Frontend [#](#2.0-frontend)
+### 2.0 Frontend
 
 ---
 
@@ -279,7 +279,7 @@ Table of Contents
 
 * 2.11 Parent reeducers should be named in `snakeCase` format and must be singular.
 
-### 3.0 Backend [#](#3.0-backend)
+### 3.0 Backend
 
 ---
 
@@ -305,7 +305,7 @@ Table of Contents
     GET /example/1 ❌
     ```
 
-### 4.0 Security [#](#3.0-security)
+### 4.0 Security
 
 ---
 
@@ -325,7 +325,7 @@ Table of Contents
     import Hello from 'world';
     ```
 
-### 5.0 DevOps [#](#5.0-devops)
+### 5.0 DevOps
 
 ---
 
@@ -345,7 +345,7 @@ Table of Contents
     import Hello from 'world';
     ```
 
-### 6.0 Testing [#](#6.0-testing)
+### 6.0 Testing
 
 ---
 
@@ -355,7 +355,7 @@ Table of Contents
     import Hello from 'world';
     ```
 
-### 7.0 Database [#](#7.0-database)
+### 7.0 Database
 
 ---
 
@@ -376,7 +376,7 @@ Table of Contents
 
 * 7.4 Routes should be in `kebab-case` format
 
-### 7.0 Blacklisted [#](#7.0-blacklisted)
+### 7.0 Blacklisted
 
 ---
 
@@ -418,4 +418,4 @@ Table of Contents
 
 ## Resources
 
-- https://gist.github.com/mrsasha/8d511770ad9b282f3a5d0f5c8acdd10e
+* https://gist.github.com/mrsasha/8d511770ad9b282f3a5d0f5c8acdd10e

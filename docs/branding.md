@@ -11,7 +11,7 @@ Designed by: Tommy Faye Cabrera
 
 ![Logo](https://i.imgur.com/yspRiI7.jpg)
 
-## Brand
+## Branding
 
 - `<XO />` is the short text logo
 - For longer version use “XtendOps DEV Team”
