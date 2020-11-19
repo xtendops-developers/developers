@@ -32,7 +32,7 @@ The bot will then create a Pull Request to add the contributor, then reply with 
 
 ## Emoji Equivalent
 
-> To have a contribution added when using the [Bot](bot/overview) or [CLI](cli/overview) use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
+> To have a contribution added when using the Bot or CLI use the keyword in the `Type` column. The bot will also use [basic Natural Language Parsing](https://github.com/all-contributors/all-contributors-bot/blob/master/src/tasks/processIssueComment/utils/parse-comment/index.js) to determine your contribution intent.
 
 Emoji/Type | Represents | Comments
 :---: | :---: | :---:
