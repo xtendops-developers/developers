@@ -58,8 +58,8 @@ A masterlist of code review to make it easy for developers to pull up as referen
 
 Table of Contents
 
-* [1.0 Code](#1.0-code)
-* [2.0 General](#2.0-general)
+* [1.0 General](#1.0-general)
+* [2.0 Code](#2.0-code)
 * [3.0 Frontend](#3.0-frontend)
 * [4.0 Backend](#4.0-backend)
 * [5.0 DevOps](#5.0-devops)
