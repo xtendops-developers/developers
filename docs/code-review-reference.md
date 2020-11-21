@@ -58,15 +58,15 @@ A masterlist of code review to make it easy for developers to pull up as referen
 
 Table of Contents
 
-* [1.0 General](#1.0-general)
-* [2.0 Code](#2.0-code)
-* [3.0 Frontend](#3.0-frontend)
-* [4.0 Backend](#4.0-backend)
-* [5.0 DevOps](#5.0-devops)
-* [6.0 Security](#6.0-security)
-* [7.0 Testing](#7.0-testing)
-* [8.0 Database](#8.0-database)
-* [9.0 Blacklisted](#9.0-blacklisted)
+* [1.0 General](#10-general)
+* [2.0 Code](#20-code)
+* [3.0 Frontend](#30-frontend)
+* [4.0 Backend](#40-backend)
+* [5.0 DevOps](#50-devops)
+* [6.0 Security](#60-security)
+* [7.0 Testing](#70-testing)
+* [8.0 Database](#80-database)
+* [9.0 Blacklisted](#90-blacklisted)
 
 ### 1.0 General
 
