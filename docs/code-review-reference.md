@@ -127,7 +127,6 @@ Table of Contents
     }
     }
 
-
     class UserSettings {
     private readonly auth: UserAuth;
 
@@ -496,7 +495,6 @@ Table of Contents
         // Converts an XML string to an object T
     }
     }
-
 
     class JsonFormatter implements Formatter {
     parse<T>(content: string): T {
