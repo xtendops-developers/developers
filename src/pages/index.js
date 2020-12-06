@@ -83,7 +83,7 @@ We’re a modern offshoring entity, built around amazing people and innovative d
           </section>
         )}
       </main>
-      <main style={{ height: '100vh', background: '#4f99b6' }}>
+      <main style={{ background: '#4f99b6' }}>
         could talk about technology stack
         <ul>
           <li>typescript</li>
@@ -118,6 +118,7 @@ We’re a modern offshoring entity, built around amazing people and innovative d
           <li>twilio</li>
           <li>bit.dev</li>
           <li>swagger</li>
+          <li>compodoc</li>
           <li>codecov</li>
           <li>snyk</li>
         </ul>
