@@ -87,14 +87,28 @@ We’re a modern offshoring entity, built around amazing people and innovative d
         could talk about technology stack
         <ul>
           <li>typescript</li>
-          <li>react</li>
           <li>nodejs</li>
+          <li>flutter</li>
+          <li>react</li>
           <li>redux</li>
           <li>webpack</li>
+          <li>material-ui</li>
+          <li>tailwindcss</li>
+          <li>sveltte</li>
           <li>jest</li>
           <li>mysql</li>
           <li>ubuntu</li>
           <li>nginx</li>
+        </ul>
+        tools
+        <ul>
+          <li>github</li>
+          <li>digitial ocean</li>
+          <li>heroku</li>
+          <li>docker</li>
+          <li>bit.dev</li>
+          <li>codecov</li>
+          <li>snyk</li>
         </ul>
       </main>
       <main style={{ height: '70vh'}}>
