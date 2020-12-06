@@ -6,7 +6,7 @@ slug: /api
 
 # Company API
 
-[Open to Interact](https://api.xtendops.com)
+[Open to Interact](https://api.xtendops.com/docs)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et est quis quam commodo eleifend. Integer pharetra velit orci, et accumsan libero eleifend ut. Nunc cursus eu augue ac convallis. Sed varius arcu nec justo feugiat luctus. Sed accumsan fermentum tempus. Nulla non elit ac diam maximus maximus quis in nibh. Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
 

@@ -7,9 +7,9 @@ slug: /
 
 ![Logo](https://i.imgur.com/yspRiI7.jpg)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et est quis quam commodo eleifend. Integer pharetra velit orci, et accumsan libero eleifend ut. Nunc cursus eu augue ac convallis. Sed varius arcu nec justo feugiat luctus. Sed accumsan fermentum tempus. Nulla non elit ac diam maximus maximus quis in nibh. Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
+XtendOps Development Team is a small team pellentesque et est quis quam commodo eleifend. Integer pharetra velit orci, et accumsan libero eleifend ut. Nunc cursus eu augue ac convallis. Sed varius arcu nec justo feugiat luctus. Sed accumsan fermentum tempus. Nulla non elit ac diam maximus maximus quis in nibh. Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
 
-## About
+## History
 
 Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
 
@@ -25,7 +25,24 @@ Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus 
 
 ## What We Believe
 
-Being woke afk
+> Develop with accountability in mind. Own it with pride ⚡!
+
+We revovle around this idea of accountability.
+
+## Websites
+
+- https://xtendops.com
+- https://api.xtendops.com
+- https://developers.xtendops.com
+- https://status.xtendops.com
+- https://monitoring.xtendops.com
+- https://careers.xtendops.com
+- https://xconnect.xtendops.com
+- https://ifix.xtendops.com
+- https://timekeeping.xtendops.com
+- https://account.xtendops.com
+- https://slack.xtendops.com
+- https://network.xtendops.com
 
 ## The Team
 
@@ -49,5 +66,4 @@ Being woke afk
 
 ## Get in Touch
 
-- Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum.
-- Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
+Email us via developers@xtendops.us

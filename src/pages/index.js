@@ -10,29 +10,27 @@ const features = [
     title: 'Develops with Accountability in mind',
     description: (
       <>        
-        Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque
-        eget sodales augue, vitae scelerisque urna. Quisque imperdiet ante
-        diam, ac feugiat felis laoreet quis. 
+        What we firmly believe in. It is embedded to us from start prior to joining
+        the team.
       </>
     ),
   },
   {
-    title: 'Best of the Best',
+    title: 'Automation? We love that!',
     description: (
       <>
-        Phasellus facilisis dolor a tincidunt viverra. Morbi semper justo sit
-        amet sapien condimentum, at aliquam eros tincidunt. Quisque a ante orci.
+        Down from the very tidbits of development. We have automation for that! I mean who
+        wouldn't love it? All your development worries are all handled. wink wink
       </>
     ),
   },
   {
-    title: 'Fast and Precise',
+    title: 'So Clean.. So Good..',
     description: (
       <>
-        Nunc vel dictum risus. Proin rhoncus vitae dui vel euismod. Sed sodales est eget
-        velit ultricies porttitor. Phasellus ac mi ultrices,
-        commodo tortor tincidunt, mattis turpis. Vestibulum nisi nisi,
-        hendrerit ac justo sit amet, vehicula rutrum neque. 
+        Ever dreamt of maintainable code? A codebase that scales? We have system in place
+        to combat such things! Head over to <a href="http://developers.xtendops.com/docs">Docs </a>
+        page to have a taste!
       </>
     ),
   },
@@ -85,9 +83,25 @@ We’re a modern offshoring entity, built around amazing people and innovative d
           </section>
         )}
       </main>
-      <main style={{ height: '100vh', background: '#4f99b6'}}>
+      <main style={{ height: '100vh', background: '#4f99b6' }}>
+        could talk about technology stack
+        <ul>
+          <li>typescript</li>
+          <li>react</li>
+          <li>nodejs</li>
+          <li>redux</li>
+          <li>webpack</li>
+          <li>jest</li>
+          <li>mysql</li>
+          <li>ubuntu</li>
+          <li>nginx</li>
+        </ul>
       </main>
       <main style={{ height: '70vh'}}>
+        could showcase projects
+      </main>
+      <main style={{ height: '30vh'}}>
+        Do you want to be part of us?
       </main>
     </Layout>
   );
