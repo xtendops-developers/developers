@@ -1,9 +1,11 @@
 ---
-id: release
-title: Creating Release
-sidebar_label: Creating a Release
-slug: /documentations/release
+id: deployment 
+title: Deployment
+sidebar_label: Deployment
+slug: /docs/deployment
 ---
+
+## Github Release
 
 1. Create a branch
 

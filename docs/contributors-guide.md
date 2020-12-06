@@ -1,11 +1,11 @@
 ---
-id: readme-contributors-guide
-title: README Contributors Guide
-sidebar_label: README Contributors Guide
-slug: /documentations/readme-contributors-guide
+id: contributors-guide
+title: Contributors Guide
+sidebar_label: Contributors Guide
+slug: /docs/contributors-guide
 ---
 
-We're utilzing `all-contributors` for handling our contribution docs.
+This talks about README Contributors section found on every project's README. We're utilzing `all-contributors` for handling our contribution docs.
 
 refer: https://allcontributors.org/
 

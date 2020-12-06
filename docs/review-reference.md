@@ -1,11 +1,11 @@
 ---
-id: code-review-reference
-title: Code Review Reference
-sidebar_label: Code Review Reference
-slug: /documentations/code-review-reference
+id: review-reference
+title: Review Reference
+sidebar_label: Review Reference
+slug: /docs/review-reference
 ---
 
-A masterlist of code review to make it easy for developers to pull up as reference.
+A masterlist of references.
 
 [Proceed to Masterlist](#masterlist)
 
@@ -13,7 +13,7 @@ A masterlist of code review to make it easy for developers to pull up as referen
 
 * There is no perfect code: good enough is usually good enough. That being said, try to keep the number of WTFs per minute to a minimum.
 
-![](https://i2.wp.com/commadot.com/wp-content/uploads/2009/02/wtf.png?w=550)
+![code](https://i2.wp.com/commadot.com/wp-content/uploads/2009/02/wtf.png?w=550)
 
 * Accept that many programming decisions are opinions.  Discuss tradeoffs, which you prefer, and reach a resolution quickly.
 * Ask for clarification. ("I didn't understand. Can you clarify?")
@@ -2425,18 +2425,18 @@ Table of Contents
 
     With clean and easy to read import statements you can quickly see the dependencies of current code. Make sure you apply following good practices for `import` statements:
 
-    - Import statements should be alphabetized and grouped.
-    - Unused imports should be removed.
-    - Named imports must be alphabetized (i.e. `import {A, B, C} from 'foo';`)
-    - Import sources must be alphabetized within groups, i.e.: `import * as foo from 'a'; import * as bar from 'b';`
-    - Groups of imports are delineated by blank lines.
-    - Groups must respect following order:
-    - Polyfills (i.e. `import 'reflect-metadata';`)
-    - Node builtin modules (i.e. `import fs from 'fs';`)
-    - external modules (i.e. `import { query } from 'itiriri';`)
-    - internal modules (i.e `import { UserService } from 'src/services/userService';`)
-    - modules from a parent directory (i.e. `import foo from '../foo'; import qux from '../../foo/qux';`)
-    - modules from the same or a sibling's directory (i.e. `import bar from './bar'; import baz from './bar/baz';`)
+        - Import statements should be alphabetized and grouped.
+        - Unused imports should be removed.
+        - Named imports must be alphabetized (i.e. `import {A, B, C} from 'foo';`)
+        - Import sources must be alphabetized within groups, i.e.: `import * as foo from 'a'; import * as bar from 'b';`
+        - Groups of imports are delineated by blank lines.
+        - Groups must respect following order:
+        - Polyfills (i.e. `import 'reflect-metadata';`)
+        - Node builtin modules (i.e. `import fs from 'fs';`)
+        - external modules (i.e. `import { query } from 'itiriri';`)
+        - internal modules (i.e `import { UserService } from 'src/services/userService';`)
+        - modules from a parent directory (i.e. `import foo from '../foo'; import qux from '../../foo/qux';`)
+        - modules from the same or a sibling's directory (i.e. `import bar from './bar'; import baz from './bar/baz';`)
 
     **Bad:**
 
@@ -2654,13 +2654,19 @@ Table of Contents
 
 ### 5.0 Security
 
-Head over to OWASP to learn more about web security
+Head over to OWASP to learn more about security standards(https://owasp.org)
 
-refer: https://owasp.org/
+More here: https://developers.xtendops.com/docs/devops
 
 ---
 
+* 5.1 SQL Injection
+
 ### 6.0 DevOps
+
+More here: https://developers.xtendops.com/docs/devops
+
+---
 
 ### 7.0 Testing
 

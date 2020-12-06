@@ -65,7 +65,7 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
     githubUrl="https://github.com/crrmacarse"
     eMail="mailto:christian@xtendops.us"
   >
-    Working as a Full Stack Developer and Dev Ops Engineer. I heavily contribute to project initialization, maintenance, and documentations.
+    Working as a Full Stack Developer and Dev Ops. I heavily contribute to project initialization, maintenance, blog, and documentation. I wrote mainly all the automations and setup the company infrastructure. If you have any questions, just hit me up!
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Tommy Faye Cabrera"

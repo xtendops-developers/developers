@@ -2,7 +2,7 @@
 id: commits
 title: Commit Pattern
 sidebar_label: Commit Pattern
-slug: /documentations/commits
+slug: /commits
 ---
 
 ```bash

@@ -2,10 +2,11 @@
 id: code-of-ethics
 title: Code of Ethics
 sidebar_label: Code of Ethics
-slug: /documentations/code-of-ethics
+slug: /code-of-ethics
 ---
 
 As a software developer under XtendOps, I’m expected to abide the following:
+
 - never create or distribute malware.
 - never write code that is obfuscated or intentionally difficult to follow.
 - never write documentation that is intentionally confusing or inaccurate.

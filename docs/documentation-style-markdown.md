@@ -1,8 +1,8 @@
 ---
-id: doc1
-title: Style Guide
-sidebar_label: Style Guide
-slug: /test
+id: documentation-style-markdown
+title: Documentation Style - Markdown
+sidebar_label: Markdown
+slug: style/markdown
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).

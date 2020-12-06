@@ -2,7 +2,7 @@
 id: branch
 title: Branch Convention
 sidebar_label: Branch Convention
-slug: /documentations/branch
+slug: /docs/branch
 ---
 
 ### Quick Legend

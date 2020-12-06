@@ -1,6 +1,6 @@
 ---
-id: health-check 
+id: project-status 
 title: Project Mango Magic 
 sidebar_label: Overview
-slug: /health-check
+slug: /status
 ---

@@ -1,12 +1,13 @@
 ---
-id: server
-title: Server
-sidebar_label: Server
-slug: /documentations/server
+id: devops 
+title: DevOps
+sidebar_label: DevOps
+slug: /docs/devops
 ---
 
 Server Provider: Digital Ocean
 OS: Ubuntu
+DNS: GoDaddy
 
 Integrations:
 

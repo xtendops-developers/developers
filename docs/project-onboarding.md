@@ -1,8 +1,8 @@
 ---
 id: project-onboarding
-title: Project Onboarding Guidelines
-sidebar_label: Project Onboarding Guidelines
-slug: /documentations/project-onboarding
+title: Project Onboarding
+sidebar_label: Project Onboarding
+slug: /project-onboarding
 ---
 
 A quick guide to project onboarding. Make sure to **finish** reading all of the following before proceeding to a project.

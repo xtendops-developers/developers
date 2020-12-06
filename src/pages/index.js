@@ -3,7 +3,6 @@ import clsx from 'clsx';
 import Layout from '@theme/Layout';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import useBaseUrl from '@docusaurus/useBaseUrl';
 import styles from './styles.module.css';
 
 const features = [
@@ -85,6 +84,10 @@ We’re a modern offshoring entity, built around amazing people and innovative d
             </div>
           </section>
         )}
+      </main>
+      <main style={{ height: '100vh', background: '#4f99b6'}}>
+      </main>
+      <main style={{ height: '70vh'}}>
       </main>
     </Layout>
   );

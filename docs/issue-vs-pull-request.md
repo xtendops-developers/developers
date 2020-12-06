@@ -2,7 +2,7 @@
 id: issue-vs-pull-request
 title: Issue vs Pull Request
 sidebar_label: Issue vs Pull Request 
-slug: /documentations/issue-vs-pull-request
+slug: /docs/issue-vs-pull-request
 ---
 
 ## Issues

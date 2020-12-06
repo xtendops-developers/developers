@@ -1,6 +1,8 @@
 ---
-id: mdx
-title: Powered by MDX
+id: documentation-style-mdx
+title: Documentation Style - MDX 
+sidebar_label: MDX
+slug: /style/mdx
 ---
 
 You can write JSX and use React components within your Markdown thanks to [MDX](https://mdxjs.com/).

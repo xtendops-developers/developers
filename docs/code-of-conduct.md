@@ -2,7 +2,7 @@
 id: code-of-conduct
 title: Code of Conduct
 sidebar_label: Code of Conduct
-slug: /documentations/code-of-conduct
+slug: /code-of-conduct
 ---
 
 ### Our Pledge

@@ -2,8 +2,10 @@
 id: codenames
 title: Codenames
 sidebar_label: Codenames
-slug: /documentations/codenames
+slug: /codenames
 ---
+
+The following are publicly available codenames. Private ones are held for security reasons.
 
 ## Infrastructure
 
@@ -23,8 +25,6 @@ Katrina | extend-next | The New Company Database
 Anita | extend |
 Sofia | MongoDB database |
 
-> Reserved words: queen's court; empress
-
 ## Projects
 
 Codename | Official Name | Description
@@ -40,5 +40,3 @@ Nothing But Desserts | Network Pinger | network.xtendops.us
 Popoys' | PortalEx |
 Loladi | Timekeeping | timekeeping.xtendops.us
 Mango Magic | Health Checker | health.xtendops.us
-
-> Reserved words: ribshack; tatoys; salam-ukan
