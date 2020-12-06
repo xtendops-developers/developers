@@ -1,6 +1,6 @@
 ---
 slug: the-serialization-problem
-title: The Serialization Problem
+title: 'Company API: The Serialization Problem'
 author: Christian Ryan Macarse
 author_title: Full Stack Developer / DevOps
 author_url: https://github.com/crrmacarse

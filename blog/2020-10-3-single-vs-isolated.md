@@ -1,10 +1,10 @@
 ---
 slug: single-vs-isolated
 title: Single vs Isolated
-author: Tommy Faye Cabrera
-author_title: Frontend Web Developer & UI/UX @ XtendOps
-author_url: https://github.com/TommyCabrera
-author_image_url: ../img/team-tommy.svg
+author: Christian Ryan Macarse
+author_title: Full Stack Developer / DevOps
+author_url: https://github.com/crrmacarse
+author_image_url: /img/team-christian.svg
 tags: [Single, Isolated, Comaprison]
 ---
 

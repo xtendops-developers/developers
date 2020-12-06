@@ -1,10 +1,10 @@
 ---
 slug: about-server-timeout
-title: About Server Timeout
+title: 'Company API: About Server Timeout'
 author: Christian Ryan Macarse
 author_title: Full Stack Developer / DevOps
 author_url: https://github.com/crrmacarse
-author_image_url: ../img/team-christian.svg
+author_image_url: /img/team-christian.svg
 tags: [Infrastructure, Backend, API, Heroku, Digital Ocean, MYSQL]
 ---
 
