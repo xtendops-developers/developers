@@ -94,6 +94,13 @@ We’re a modern offshoring entity, built around amazing people and innovative d
           <li>webpack</li>
           <li>material-ui</li>
           <li>tailwindcss</li>
+          <li>nestjs</li>
+          <li>adonisjs</li>
+          <li>expressjs</li>
+          <li>typeorm</li>
+          <li>passportjs</li>
+          <li>joi/class-validator</li>
+          <li>socket.io</li>
           <li>sveltte</li>
           <li>jest</li>
           <li>mysql</li>
