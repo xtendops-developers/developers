@@ -100,13 +100,17 @@ We’re a modern offshoring entity, built around amazing people and innovative d
           <li>ubuntu</li>
           <li>nginx</li>
         </ul>
-        tools
+        tools and integrations
         <ul>
           <li>github</li>
           <li>digitial ocean</li>
           <li>heroku</li>
           <li>docker</li>
+          <li>google api</li>
+          <li>slack api</li>
+          <li>twilio</li>
           <li>bit.dev</li>
+          <li>swagger</li>
           <li>codecov</li>
           <li>snyk</li>
         </ul>
