@@ -50,11 +50,11 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
     Docusaurus founder and now ever grateful Docusaurus cheerleader to those who actually write code for it.
   </TeamProfileCardCol>
   <TeamProfileCardCol
-    name="Rupert Tianzon"
-    avatarImage="../img/team-rupert.svg"
-    position="Work from Home Tickets"
-    githubUrl="https://github.com/rgtianzon"
-    eMail="mailto:rupert@xtendops.us"
+    name="Ceasar Uychiat"
+    avatarImage="../img/team-ceasar.svg"
+    position="Full Stack Developer"
+    githubUrl=""
+    eMail="mailto:ceasar@xtendops.us"
   >
     React lover since 2014. Freelance, helping Facebook ship Docusaurus v2. He writes regularly, on his <a href="https://sebastienlorber.com/" target="_blank">website</a> and <a href="https://dev.to/sebastienlorber" target="_blank">Dev.to</a>.
   </TeamProfileCardCol>
