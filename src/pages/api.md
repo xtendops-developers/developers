@@ -16,10 +16,57 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
 
 Nunc vel dictum risus. Proin rhoncus vitae dui vel euismod. Sed sodales est eget velit ultricies porttitor. Phasellus ac mi ultrices, commodo tortor tincidunt, mattis turpis. Vestibulum nisi nisi, hendrerit ac justo sit amet, vehicula rutrum neque. Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus sapien ac nunc finibus vehicula. Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum. Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
 
+## API Tags
 
-## Documentations
+Tag | Description
+--- | --- | --- |
+general | General API Routes |
+authentication  | Deals with authentication |
+account  | Account-related routes |
+health | Company Infrastructure Heath Checkers |
+recruitment | Recruitment Project API Routes |
+xconnect | XConnect Project API Routes |
+
+## Conventions
+
+Proin rhoncus vitae dui vel euismod. Sed sodales est eget velit ultricies porttitor. Phasellus ac mi ultrices, commodo tortor tincidunt, mattis turpis. Vestibulum nisi nisi, hendrerit ac justo sit amet, vehicula rutrum neque. Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus sapien ac nunc finibus vehicula. Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum. Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
+
+## Sending a Request
+
+Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus sapien ac nunc finibus vehicula. Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum. Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
+
+## Dealing with Response
 
 Nullam ut maximus mauris. Curabitur volutpat lacinia tortor vitae condimentum.
 Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
 
-Check: https://api.xtendops.com/docs
+Response without data
+
+```json
+{
+    message: 'Succesfuly added an Account',
+}
+
+```
+
+Response with data
+
+```json
+{
+    accounts: [],
+}
+```
+
+## Handling Errors
+
+Donec pretium lectus elit, eget egestas turpis porta ac. Fusce vitae malesuada lacus.
+
+```json
+{
+    message: 'Error',
+}
+```
+
+## Conclusion
+
+Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
