@@ -29,5 +29,6 @@ module.exports = {
     'Project: Status Checker': ['project-status'],
     'Project: Monitoring': ['project-monitoring'],
     'Style Guide': ['documentation-style-markdown', 'documentation-style-mdx'],
+    'FAQ': ['faq'],
   },
 };
