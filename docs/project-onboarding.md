@@ -193,8 +193,12 @@ vital information about the project.
 - Check for line authors to know where to address your question
 - More here...
 
----
+### What's Next?
 
-If you have any concerns and questions, please contact the development team
+You could either continue reading our whole documentation or start contributing to projects! Good luck!
 
-Read our Developer Guidelines [here](https://docs.google.com/document/d/1CrRmbC_h1-Mj3hAIxGKVUUoG6kRUFgR4s2Ivn-LIo9A/edit) or visit our website via https://developers.xtendops.us/
+:::tip
+
+The Review Reference page tackles in depth
+
+:::

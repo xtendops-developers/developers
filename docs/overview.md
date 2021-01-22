@@ -29,7 +29,7 @@ Vivamus elementum pretium est, eget bibendum quam eleifend vitae. Fusce finibus 
 
 We revovle around this idea of accountability.
 
-## Websites
+## Website Projects
 
 - https://xtendops.com
 - https://api.xtendops.com
@@ -43,6 +43,7 @@ We revovle around this idea of accountability.
 - https://account.xtendops.com
 - https://slack.xtendops.com
 - https://network.xtendops.com
+- https://files.xtendops.com
 
 ## The Team
 
@@ -60,10 +61,12 @@ We revovle around this idea of accountability.
     <td align="center"><a href="https://github.com/keso-12"><img src="https://avatars3.githubusercontent.com/u/17907451?v=4" width="100px;" alt=""/><br /><sub><b>Kenneth B. So</b></sub></a><br /></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/rgtianzon"><img src="https://avatars2.githubusercontent.com/u/73128873?s=460&v=4" width="100px;" alt=""/><br /><sub><b>Rupert Tianzon</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/cedie24"><img src="https://avatars0.githubusercontent.com/u/39289683?s=400&u=caead7e2d8e03da3048211e38cd311b81e28379a&v=4" width="100px;" alt=""/><br /><sub><b>Cedie Uychiat</b></sub></a><br /></td>
   </tr>
 </table>
 
-## Get in Touch
+:::tip
 
-Email us via developers@xtendops.us
+You can click next on the lower right corner of the page to proceed to the documentation page.
+
+:::

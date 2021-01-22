@@ -5,7 +5,17 @@ sidebar_label: Overview
 slug: /overview
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et est quis quam commodo eleifend. Integer pharetra velit orci, et accumsan libero eleifend ut. Nunc cursus eu augue ac convallis. Sed varius arcu nec justo feugiat luctus. Sed accumsan fermentum tempus. Nulla non elit ac diam maximus maximus quis in nibh. Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
+This is an initiative to Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et est quis quam commodo eleifend. Integer pharetra velit orci, et accumsan libero eleifend ut. Nunc cursus eu augue ac convallis. Sed varius arcu nec justo feugiat luctus. Sed accumsan fermentum tempus. Nulla non elit ac diam maximus maximus quis in nibh. Praesent congue sit amet massa eget ultricies. Nullam lacinia et ex in suscipit. Donec in sapien sem. Fusce vitae lectus luctus leo vulputate ultrices. In tempor erat dolor, dictum auctor urna suscipit eget. In vitae nunc nisi. Etiam a suscipit orci.
+
+## Where to Start?
+
+### As a newcomer
+
+Do this
+
+### As an employee
+
+you can start skimming around the project
 
 ## Contributors
 
@@ -21,3 +31,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque et est qui
 <!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+
+:::note
+
+Feel free to add yourself if you've contributed to the documentations
+
+:::
