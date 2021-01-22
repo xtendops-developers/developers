@@ -212,6 +212,8 @@ This is only an extension of the guidelines that is tailored to help newcomers t
 
 Again. Welcome! We’re really looking forward to be working with you!
 
-## What's Next?
+### What's Next?
 
-Give us a head's up once you're done reading. We will give you a feedback form to fill up. You could either continue reading our whole documentation or start contributing to projects! Good luck!
+Give us a head's up once you're done reading. We will give you a feedback form to fill up.
+
+You might want to read Project Onboarding Guidelines first.
