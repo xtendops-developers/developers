@@ -6,6 +6,19 @@
   "commit": false,
   "contributors": [
     {
+      "login": "crrmacarse",
+      "name": "Macarse, Christian Ryan R.",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/39759024?v=4",
+      "profile": "http://crrmacarse.github.io / 139.59.100.139",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "infra",
+        "question"
+      ]
+    },
+    {
       "login": "TommyCabrera",
       "name": "hitomi",
       "avatar_url": "https://avatars2.githubusercontent.com/u/73001130?v=4",

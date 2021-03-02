@@ -18,7 +18,7 @@ module.exports = {
         {
           to: "docs/",
           activeBasePath: "docs",
-          label: "Projects",
+          label: "Docs",
           position: "left",
         },
         { to: "blog", label: "Blog", position: "left" },
@@ -48,12 +48,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/xtendops-developers",
+          editUrl: "https://github.com/xtendops-developers/developers",
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl: "https://github.com/xtendops-developers",
+          editUrl: "https://github.com/xtendops-developers/developers",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),

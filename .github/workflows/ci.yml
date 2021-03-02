@@ -1,0 +1,21 @@
+name: CI
+
+on: [push]
+
+jobs:
+  test:
+    name: Integration Testing
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2.0.0
+
+    - name: Use node 12
+      uses: actions/setup-node@v1
+      with:
+          node-version: 12
+          registry-url: https://registry.npmjs.org
+
+    - name: install
+      run: npm install
+    - name: build
+      run: npm run build

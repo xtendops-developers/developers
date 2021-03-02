@@ -23,3 +23,46 @@
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
 }
+
+.pad {
+  padding: 10vh 0;
+}
+
+.home-section {
+  padding-top: 72px;
+}
+
+.home-lang {
+  background: linear-gradient(180deg, #9cc099, #678fb6);
+  color: var(--ifm-font-color-base-inverse);
+  background-attachment: fixed;
+}
+
+.unique-tabs .tabs__item {
+  height: 18px;
+  line-height: 16px;
+  margin-right: 8px;
+  color: #fff;
+  background-color: rgb(0 0 0 / 15%);
+}
+
+.unique-tabs .tabs__item--active {
+  border: 0;
+  border-radius: var(--ifm-global-radius);
+  background-color: var(--ifm-tabs-color-active);
+}
+
+.tech-stack .col .avatar {
+  background-color: rgb(255 255 255 / 8%);
+  border-radius: 10px;
+  padding: var(--ifm-spacing-horizontal);
+}
+
+.vidShow {
+  width: 100%;
+}
+
+#table-custom td, #table-custom tr {
+  border: 0;
+  background: none;
+}

@@ -39,11 +39,28 @@ $ npm build
 npm run start
 ```
 
+## Contributors
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://crrmacarse.github.io / 139.59.100.139"><img src="https://avatars3.githubusercontent.com/u/39759024?v=4" width="100px;" alt=""/><br /><sub><b>Macarse, Christian Ryan R.</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Code">💻</a> <a href="https://github.com/xtendops-developers/developers/commits?author=crrmacarse" title="Documentation">📖</a> <a href="#maintenance-crrmacarse" title="Maintenance">🚧</a> <a href="#infra-crrmacarse" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#question-crrmacarse" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/TommyCabrera"><img src="https://avatars2.githubusercontent.com/u/73001130?v=4" width="100px;" alt=""/><br /><sub><b>hitomi</b></sub></a><br /><a href="https://github.com/xtendops-developers/developers/commits?author=TommyCabrera" title="Code">💻</a> <a href="#design-TommyCabrera" title="Design">🎨</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-enable -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
 ---
 
 If you have any concerns and questions, please contact the development team
 
 Read our Developer Guidelines [here](https://docs.google.com/document/d/1CrRmbC_h1-Mj3hAIxGKVUUoG6kRUFgR4s2Ivn-LIo9A/edit)
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
@@ -62,3 +79,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+

@@ -50,22 +50,13 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
     Docusaurus founder and now ever grateful Docusaurus cheerleader to those who actually write code for it.
   </TeamProfileCardCol>
   <TeamProfileCardCol
-    name="Rupert Tianzon"
-    avatarImage="../img/team-rupert.svg"
-    position="Work from Home Tickets"
-    githubUrl="https://github.com/rgtianzon"
-    eMail="mailto:rupert@xtendops.us"
-  >
-    React lover since 2014. Freelance, helping Facebook ship Docusaurus v2. He writes regularly, on his <a href="https://sebastienlorber.com/" target="_blank">website</a> and <a href="https://dev.to/sebastienlorber" target="_blank">Dev.to</a>.
-  </TeamProfileCardCol>
-  <TeamProfileCardCol
     name="Christian Ryan Macarse"
     avatarImage="../img/team-christian.svg"
     position="Full Stack Developer / DevOps Engineer"
     githubUrl="https://github.com/crrmacarse"
     eMail="mailto:christian@xtendops.us"
   >
-    Working as a Full Stack Developer and Dev Ops Engineer. I heavily contribute to project initialization, maintenance, and documentations.
+    Working as a Full Stack Developer and Dev Ops. I heavily contribute to project initialization, maintenance, blog, and documentation. I wrote mainly all the automations; build the company cloud infrastructure; and setup integrations.
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Tommy Faye Cabrera"
@@ -74,7 +65,7 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
     githubUrl="https://github.com/TommyCabrera"
     eMail="mailto:tommy@xtendops.us"
   >
-    Docusaurus founder and now ever grateful Docusaurus cheerleader to those who actually write code for it.
+    Deliver an outstanding user experience and providing an exceptional and intuitive application design. Creating the user interface based on user research insights.
   </TeamProfileCardCol>
   <TeamProfileCardCol
     name="Rey Den Nalasa"
@@ -88,9 +79,18 @@ Nulla a est convallis, varius nisl vel, eleifend ipsum. Quisque eget sodales aug
   <TeamProfileCardCol
     name="Don Kenneth Demayo"
     avatarImage="../img/team-don.svg"
-    position="Full Stack Developer"
+    position="Frontend Web Developer"
     githubUrl="https://github.com/knnthdmyo"
     eMail="mailto:donkenneth@xtendops.us"
+  >
+    Full Front End Stack developer who likes working on the Jamstack. Working on Docusaurus made him Facebook's unofficial part-time Open Source webmaster, which is an awesome role to be in.
+  </TeamProfileCardCol>
+  <TeamProfileCardCol
+    name="Ceasar Uychiat"
+    avatarImage="../img/team-ceasar.svg"
+    position="Full Stack Developer"
+    githubUrl="https://github.com/knnthdmyo"
+    eMail="mailto:ceasar@xtendops.us"
   >
     Full Front End Stack developer who likes working on the Jamstack. Working on Docusaurus made him Facebook's unofficial part-time Open Source webmaster, which is an awesome role to be in.
   </TeamProfileCardCol>
